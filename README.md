@@ -1,24 +1,13 @@
 # <div align="center"> Roadmap Front end </div>
-
-</br>
-
 <div align="center">
 <p>🚧 It is in Development 🚧</p>
-
-</br>
-
-
-
 <details>
 <summary>Clique Aqui</summary>
 </br>
 
-
 ![image 1](/.github/frontend.jpg)
-
 </details>
 </div>
-
 </br>
 
 ## Parte 0 | Conhecimento básico geral
