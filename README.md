@@ -6,33 +6,36 @@
 <p>🚧 It is in Development 🚧</p>
 
 </br>
-</div>
+
 
 
 <details>
-<summary>Clique Aqui para ver o Roadmap</summary>
+<summary>Clique Aqui</summary>
 </br>
-<div align="center">
+
 
 ![image 1](/.github/frontend.jpg)
-</div>
-</details>
 
-## 📚 | Lógica de Programação
+</details>
+</div>
+
+</br>
+
+### 📚 | Lógica de Programação
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 - [Curso do Sharpax](https://www.youtube.com/watch?v=JaTf3dhx464&list=PLfdDa19nz5SpJMLiGkRSctLH7QBr44goY)
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
 - [Curso do Node Studio Treinamentos](https://www.youtube.com/watch?v=4ZAOWlZRbZk&list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o)
 
-## 📚 | Git e GitHub
+### 📚 | Git e GitHub
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 - [Curso do RBTech](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Curso do Willian Justen](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
 - [Curso do Tiago Matos](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
 
-## 📚 | HTML e CSS
+### 📚 | HTML e CSS
 
 - [Curso do Curso em Vídeo - Modulo 1 ](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 - [Curso do Curso em Vídeo - Modulo 2](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
@@ -45,7 +48,7 @@
 - [Curso do Marco Bruno](https://www.youtube.com/watch?v=CZPa3-1BKnY&list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa)
 - [Curso do Otávio Miranda](https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA)
 
-## 📚 | Javascript
+### 📚 | Javascript
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
 - [Curso do CFBCursos](https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
@@ -53,9 +56,9 @@
 - [Curso do Edson Maia](https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=pOoP8DE_H70&list=PLXik_5Br-zO-h6HFz_aYmQmb0HshP135F)
 
-# Frameworks
+## Frameworks
 
-## 📚 | ReactJS 
+### 📚 | ReactJS 
 
 - [Curso do Matheus Battisti](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 - [Curso do CFBCursos](https://www.youtube.com/watch?v=1LhX2u6_BJE&list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC)
@@ -63,7 +66,7 @@
 - [Curso do João Ribeiro - Modulo 2](https://www.youtube.com/watch?v=F7fJm_IMM_8&list=PLXik_5Br-zO_47e0Zdjog8t2z76Fhlf9M)
 - [Curso do Marco Bruno](https://www.youtube.com/watch?v=aUDgoPsrPNg&list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va)
 
-## 📚 | VueJS
+### 📚 | VueJS
 
 - [Curso do Matheus Battisti](https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL)
 - [Curso do Filipe Morelli ](https://www.youtube.com/watch?v=MoUO5DEyOmM&list=PLWhiA_CuQkbDxptXchXrYuGZnhlwnJgOF)
@@ -71,7 +74,7 @@
 - [Curso do Tiago Matos - Modulo 1](https://www.youtube.com/watch?v=07-TvnH7XNo&list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW)
 - [Curso do Tiago Matos - Modulo 2](https://www.youtube.com/watch?v=HjD8UwyUgoc&list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w)
 
-## 📚 | AngularJS
+### 📚 | AngularJS
 
 - [Curso do Matheus Battisti](https://www.youtube.com/watch?v=vJt_K1bFUeA&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw)
 - [Curso do Loiane Groner](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
