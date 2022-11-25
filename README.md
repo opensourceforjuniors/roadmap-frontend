@@ -22,8 +22,7 @@
 </br>
 
 
-## Inicio
-
+## Parte 1
 ### 📚 | Lógica de Programação
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
@@ -37,8 +36,6 @@
 - [Curso do RBTech](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Curso do Willian Justen](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
 - [Curso do Tiago Matos](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
-
-## Parte 1
 
 ### 📚 | HTML e CSS
 
