@@ -6,12 +6,22 @@
 <p>🚧 It is in Development 🚧</p>
 
 </br>
+</div>
+
+
+<details>
+<summary>Roadmap</summary>
+</br>
+
+<div align="center">
 
 ![image 1](/.github/frontend.jpg)
 
 </div>
 
-</br>
+  
+</details>
+
 
 ## Lógica de Programação
 
@@ -20,7 +30,6 @@
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
 - [Curso do Node Studio Treinamentos](https://www.youtube.com/watch?v=4ZAOWlZRbZk&list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o)
 
-</br>
 
 ## Git e GitHub
 
