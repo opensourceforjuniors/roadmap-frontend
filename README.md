@@ -21,8 +21,8 @@
 
 </br>
 
+## Parte 0 | Conhecimento básico
 
-## Parte 1
 ### 📚 | Lógica de Programação
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
@@ -36,6 +36,8 @@
 - [Curso do RBTech](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Curso do Willian Justen](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
 - [Curso do Tiago Matos](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+
+## Parte 1
 
 ### 📚 | HTML e CSS
 
@@ -83,3 +85,5 @@
 - [Curso do Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
 - [Curso do Cod3r Cursos](https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=KZrMuOEk1cE&list=PLXik_5Br-zO9Rly_0vxD4p1TF8z7p6Dx5)
+
+## Parte 3 | 
