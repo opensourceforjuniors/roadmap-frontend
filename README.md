@@ -58,7 +58,7 @@
 - [Curso do Edson Maia](https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=pOoP8DE_H70&list=PLXik_5Br-zO-h6HFz_aYmQmb0HshP135F)
 
-## Parte 2
+## Parte 2 | Escolha um Framework !
 
 ### 📚 | ReactJS 
 
