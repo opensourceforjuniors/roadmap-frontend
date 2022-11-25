@@ -21,6 +21,9 @@
 
 </br>
 
+
+## Inicio
+
 ### 📚 | Lógica de Programação
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
@@ -34,6 +37,8 @@
 - [Curso do RBTech](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Curso do Willian Justen](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
 - [Curso do Tiago Matos](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+
+## Parte 1
 
 ### 📚 | HTML e CSS
 
@@ -56,7 +61,7 @@
 - [Curso do Edson Maia](https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=pOoP8DE_H70&list=PLXik_5Br-zO-h6HFz_aYmQmb0HshP135F)
 
-## Frameworks
+## Parte 2
 
 ### 📚 | ReactJS 
 
