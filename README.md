@@ -21,7 +21,7 @@
 
 </br>
 
-## Parte 0 | Conhecimento básico
+## Parte 0 | Conhecimento básico geral
 
 ### 📚 | Lógica de Programação
 
@@ -37,7 +37,7 @@
 - [Curso do Willian Justen](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
 - [Curso do Tiago Matos](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
 
-## Parte 1
+## Parte 1 | Conhecimento básico
 
 ### 📚 | HTML e CSS
 
