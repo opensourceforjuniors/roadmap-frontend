@@ -49,7 +49,7 @@
 - [Curso do Edson Maia](https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=pOoP8DE_H70&list=PLXik_5Br-zO-h6HFz_aYmQmb0HshP135F)
 
-## Parte 2 | Escolha um Framework !
+## Parte 2 | Escolha um Framework
 
 ### 📚 | ReactJS 
 
@@ -75,4 +75,22 @@
 - [Curso do Cod3r Cursos](https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=KZrMuOEk1cE&list=PLXik_5Br-zO9Rly_0vxD4p1TF8z7p6Dx5)
 
-## Parte 3 | 
+## Parte 3 | Aprender a usar ferramentas
+
+### 📚 | UX e UI
+
+- [Curso do Daniel Furtado](https://www.youtube.com/watch?v=WAi6ixIfdd4&list=PLx_6W4OtI_rnc1dAoiym-dixHcL5VIJ70)
+- [Curso do Chief of Design - Modulo 1](https://www.youtube.com/watch?v=ugPM7j9AmFQ&list=PLwgL9IEA0PxXwYSLBFSEuxZigG07_iet-)
+- [Curso do Chief of Design - Modulo 2](https://www.youtube.com/watch?v=CIGiF7ZUgLE&list=PLwgL9IEA0PxWjVuQrP_E760f6JpJssTXD)
+- [Curso do KeepCoding](https://www.youtube.com/watch?v=7AzbavNjRtw&list=PLQpe1zyko1pjUeqzzY7mnQ1XHju8lhc4O)
+- [Curso do She is a Creative](https://www.youtube.com/watch?v=q8JJpVSkiiw&list=PLuDfCQO9tvX0kDmh4cjo30uidCeJ-iZE6)
+### 📚 | Figma
+
+- [Curso do Chief of Design](https://www.youtube.com/watch?v=oGD4ixajvs8&list=PLwgL9IEA0PxXzmOu0crRl9l6PT46nqtI9)
+- [Curso do Infografic](https://www.youtube.com/watch?v=g6ZEMwyFgUQ&list=PLYW_GTMrtrwxuSCxBmoYfMDcoKeQSIh70)
+- [Curso do Tiago Segato](https://www.youtube.com/watch?v=ZdE3LsF3NCI&list=PLfaT9CZbt-_QEpLWuhk3wqWOC-TakYNye)
+- [Curso do Bruno Mariano](https://www.youtube.com/watch?v=qIycMQut9OQ&list=PLabMjWBiN3PM45EWV-CbeU5ltfd6vY56G)
+- [Curso do Gilberto Prado](https://www.youtube.com/watch?v=sXwgAD7RRXY&list=PLWJVgHJ6b_aG6X9YvglPh32j5StTt099Q)
+
+
+
