@@ -19,6 +19,13 @@
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
 - [Curso do Node Studio Treinamentos](https://www.youtube.com/watch?v=4ZAOWlZRbZk&list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o)
 
+### 📚 | Redes
+
+- [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
+- [Curso do Hardware Redes Brasil](https://www.youtube.com/watch?v=anFV6z8pEVU&list=PLAp37wMSBouBnNup2tD-mC36JT96vHBZy)
+- [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=efGBoJ-f_2Y&list=PLucm8g_ezqNpGh95n-OdEk06ity7YYfvU)
+- [Curso do Leonardo Furtado](https://www.youtube.com/watch?v=qeKIqC2cBo0&list=PL1ohpeRa0gZ8mY4oGrX1d-H9YZW_jTAxb)
+
 ### 📚 | Git e GitHub
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
